@@ -1,4 +1,4 @@
-%MILLOT DUCHANGE
+
 %lagrande 
 
 %lagrange([-2,-1,1,2], [10,4,6,3], (-3:0.1:3))
